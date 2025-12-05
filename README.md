@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" alt="coding animation" />
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+IT+Student;Open+Source+Enthusiast;Cyber+Security+Explorer..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=23F7DD&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Passionate+IT+Student;Open+Source+Enthusiast;" alt="Typing SVG" />
   </a>
 </div>
 
@@ -21,15 +21,7 @@
  I am a passionate developer exploring the boundless world of technology. I love building efficient software, solving complex problems, and learning new frameworks.
 </p>
 
-<div align="center">
 
-| 🔭 Current | 🌱 Learning | 👯 Looking to Collaborate | 💬 Ask me about |
-| :---: | :---: | :---: | :---: |
-| University Project | Advanced React & Node | Open Source Projects | Java, Web Dev, UI/UX |
-
-</div>
-
-<br/>
 
 <!-- Statistics Section (Fixed to show correctly) -->
 <h3 align="center">📊 GitHub Stats</h3>
