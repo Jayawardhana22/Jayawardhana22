@@ -66,7 +66,7 @@
 
 <div align="center">
   <!-- Replace the # with your actual profile links -->
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/janith-madushan-jayawardhana-44aa312b0/](https://www.linkedin.com/in/janith-madushan-jayawardhana-44aa312b0/)" target="_blank">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN_ID](https://www.linkedin.com/in/janith-madushan-jayawardhana-44aa312b0/](https://www.linkedin.com/in/janith-madushan-jayawardhana-44aa312b0/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:madushanjayawardhana856@gmail.com">
